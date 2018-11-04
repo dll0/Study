@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\Studying1\Studying1\bin\Debug\Studying1.exe.config
+C:\Users\Matheus\source\repos\Studying1\Studying1\bin\Debug\Studying1.exe
+C:\Users\Matheus\source\repos\Studying1\Studying1\bin\Debug\Studying1.pdb
+C:\Users\Matheus\source\repos\Studying1\Studying1\obj\Debug\Studying1.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Studying1\Studying1\obj\Debug\Studying1.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Studying1\Studying1\obj\Debug\Studying1.exe
+C:\Users\Matheus\source\repos\Studying1\Studying1\obj\Debug\Studying1.pdb
