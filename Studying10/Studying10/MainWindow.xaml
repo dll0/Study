@@ -7,16 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="100"/>
-            <ColumnDefinition Width="100"/>
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="*"/>
-        </Grid.RowDefinitions>
-        <Button Grid.Column="0" Grid.Row="0" Content="Hey"/>
-        <Button Grid.Column="1" Grid.Row="1" Content="Hi"/>
-    </Grid>
+    <StackPanel>
+        <TextBox Width="100" Margin="25" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <Slider IsSnapToTickEnabled="True" Name="MySlider" Minimum="0" Maximum="100" />
+    </StackPanel>
 </Window>
